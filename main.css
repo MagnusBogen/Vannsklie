@@ -1,0 +1,50 @@
+html, body, h1, h2, h3, ul, li, a, p, article, aside, footer, header, main, nav, section{
+	padding: 0;
+	margin: 0;
+}
+
+html{
+	background-color: #0a3f7b;
+}
+
+header{
+	background-color: white;
+}
+
+img {
+	width: 200px;
+	height: 48.5px;
+	padding: 20px 0 0 40px;
+
+}
+
+ul{
+	float: right;
+	margin-top: 40px;
+	margin-right: 50px;
+	display: inline-block;
+	overflow: hidden;
+
+
+}
+
+ul li{
+	display: inline-block;
+	list-style-type: none;
+	margin-left: 10px;
+	margin-right: 10px;
+
+
+}
+
+ul li a{
+	color: #0a3f7b;
+	color: black;
+
+
+}
+
+h1 {
+
+}
+
